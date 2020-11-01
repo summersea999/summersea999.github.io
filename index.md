@@ -20,6 +20,8 @@ Syntax highlighted code block
 ### Header 3
   
   ![Image of 晨晨](https://octodex.github.com/images/yaktocat.png)
+    ![Image of 坡峰岭](https://github.com/summersea999/summersea999.github.io/blob/main/DJI_0322.JPG)
+  
   
   This text will be *晨晨*
 _This will also be italic_
