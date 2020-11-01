@@ -18,6 +18,14 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+  
+  *This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
 
 - Bulleted
 - List
