@@ -19,9 +19,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
   
-  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  ![Image of 晨晨](https://octodex.github.com/images/yaktocat.png)
   
-  *This text will be 晨晨*
+  This text will be *晨晨*
 _This will also be italic_
 
 **This text will be bold**
