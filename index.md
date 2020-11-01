@@ -19,6 +19,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
   
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  
   *This text will be italic*
 _This will also be italic_
 
