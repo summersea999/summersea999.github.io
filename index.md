@@ -21,8 +21,7 @@ Syntax highlighted code block
   
 ![Image of 晨晨](https://octodex.github.com/images/yaktocat.png)
 ![Image of 坡峰岭](https://summersea999.github.io/DJI_0322.JPG)
-![Image of 啊啊](https://github.com/summersea999/summersea999.github.io/blob/main/v051_24.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of 啊啊](https://summersea999.github.io/v051_24.png)
 
   This text will be *晨晨*
 _This will also be italic_
