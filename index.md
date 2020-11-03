@@ -18,6 +18,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+2008~2014 | 2014~2017 | 2017~2020 | 2020~2024
+--------- | --------- | --------- | ---------
+北京市朝阳区芳草地国际学校远洋小学 | 北京市陈经纶中学 | 北京市陈经纶中学 | 南京理工大学
   
 ![Image of 晨晨](https://octodex.github.com/images/yaktocat.png)
 ![Image of 坡峰岭](https://summersea999.github.io/DJI_0322.JPG)
